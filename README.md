@@ -7,3 +7,4 @@
 5. [安全问题 - 女巫攻击](https://github.com/wuhuachuan712/blockchain/issues/5)
 6. [安全问题 - 重放攻击](https://github.com/wuhuachuan712/blockchain/issues/7)
 7. [安全问题 - Dusting Attack && HD wallet && UTXO](https://github.com/wuhuachuan712/blockchain/issues/6)
+8. [输入输出，挖矿，脚本，软分叉&&硬分](https://github.com/wuhuachuan712/blockchain/issues/8)
