@@ -5,7 +5,3 @@
 3. [数据结构：merkle tree](https://github.com/wuhuachuan712/blockchain/issues/9)
 4. [共识问题](https://github.com/wuhuachuan712/blockchain/issues/3)
 5. [Transaction(input,output,UTXO,输入输出脚本)](https://github.com/wuhuachuan712/blockchain/issues/8)
-6. [安全问题 - 51%攻击(double-spend)](https://github.com/wuhuachuan712/blockchain/issues/4)
-7. [安全问题 - 女巫攻击](https://github.com/wuhuachuan712/blockchain/issues/5)
-8. [安全问题 - 重放攻击](https://github.com/wuhuachuan712/blockchain/issues/7)
-9. [安全问题 - Dusting Attack && HD wallet && UTXO](https://github.com/wuhuachuan712/blockchain/issues/6)
