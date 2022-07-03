@@ -16,3 +16,4 @@
 1. [数据结构：Modified MPT](https://github.com/wuhuachuan712/blockchain/issues/10)
 2. [数据结构：账户系统与3棵树(状态树,交易树,收据树)](https://github.com/wuhuachuan712/blockchain/issues/13)
 3. [GHOST 协议](https://github.com/wuhuachuan712/blockchain/issues/14)
+4. [数据结构：Block，BlockHeader](https://github.com/wuhuachuan712/blockchain/issues/15)
