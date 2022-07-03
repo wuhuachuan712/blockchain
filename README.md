@@ -6,8 +6,9 @@
 1. [数据结构：hash pointer](https://github.com/wuhuachuan712/blockchain/issues/2)
 2. [数据结构：merkle tree](https://github.com/wuhuachuan712/blockchain/issues/9)
 3. [数据结构：CBlock，CBlockHeader](https://github.com/wuhuachuan712/blockchain/issues/11)
-4. [Transaction(input,output,UTXO,输入输出脚本)](https://github.com/wuhuachuan712/blockchain/issues/8)
-5. [共识机制](https://github.com/wuhuachuan712/blockchain/issues/3)
+4. [挖矿难度](https://github.com/wuhuachuan712/blockchain/issues/12)
+5. [Transaction(input,output,UTXO,输入输出脚本)](https://github.com/wuhuachuan712/blockchain/issues/8)
+6. [共识机制](https://github.com/wuhuachuan712/blockchain/issues/3)
 
 
 # 以太坊
