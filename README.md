@@ -1,7 +1,7 @@
 
 # 区块链
 
-<img width="653" alt="截屏2022-07-05 上午7 31 11" src="https://user-images.githubusercontent.com/35925768/177225311-0793216b-d8d5-4b32-8c87-c6dfc195725f.png">
+<img width="583" alt="截屏2022-08-13 下午12 37 11" src="https://user-images.githubusercontent.com/35925768/184468650-dac71c3c-e01c-4027-9c2f-4aa8a1573b90.png">
 
 1. [数据结构：Hash Pointer](https://github.com/wuhuachuan712/blockchain/issues/2)
 2. [数据结构：Merkle Tree](https://github.com/wuhuachuan712/blockchain/issues/9)
