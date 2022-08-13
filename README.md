@@ -3,7 +3,7 @@
 
 <img width="653" alt="截屏2022-07-05 上午7 31 11" src="https://user-images.githubusercontent.com/35925768/177225311-0793216b-d8d5-4b32-8c87-c6dfc195725f.png">
 
-1. [数据结构：hash pointer](https://github.com/wuhuachuan712/blockchain/issues/2)
+1. [数据结构：HashPointer](https://github.com/wuhuachuan712/blockchain/issues/2)
 2. [数据结构：merkle tree](https://github.com/wuhuachuan712/blockchain/issues/9)
 3. [数据结构：CBlock，CBlockHeader](https://github.com/wuhuachuan712/blockchain/issues/11)
 4. [挖矿难度](https://github.com/wuhuachuan712/blockchain/issues/12)
