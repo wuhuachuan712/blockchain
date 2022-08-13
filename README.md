@@ -3,8 +3,8 @@
 
 <img width="653" alt="截屏2022-07-05 上午7 31 11" src="https://user-images.githubusercontent.com/35925768/177225311-0793216b-d8d5-4b32-8c87-c6dfc195725f.png">
 
-1. [数据结构：HashPointer](https://github.com/wuhuachuan712/blockchain/issues/2)
-2. [数据结构：MerkleTree](https://github.com/wuhuachuan712/blockchain/issues/9)
+1. [数据结构：Hash Pointer](https://github.com/wuhuachuan712/blockchain/issues/2)
+2. [数据结构：Merkle Tree](https://github.com/wuhuachuan712/blockchain/issues/9)
 3. [数据结构：Block Header](https://github.com/wuhuachuan712/blockchain/issues/11)
 4. [挖矿难度](https://github.com/wuhuachuan712/blockchain/issues/12)
 5. [Transaction(input,output,UTXO,输入输出脚本)](https://github.com/wuhuachuan712/blockchain/issues/8)
