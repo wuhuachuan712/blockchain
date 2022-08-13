@@ -5,7 +5,7 @@
 
 1. [数据结构：HashPointer](https://github.com/wuhuachuan712/blockchain/issues/2)
 2. [数据结构：MerkleTree](https://github.com/wuhuachuan712/blockchain/issues/9)
-3. [数据结构：CBlock，CBlockHeader](https://github.com/wuhuachuan712/blockchain/issues/11)
+3. [数据结构：Block Header](https://github.com/wuhuachuan712/blockchain/issues/11)
 4. [挖矿难度](https://github.com/wuhuachuan712/blockchain/issues/12)
 5. [Transaction(input,output,UTXO,输入输出脚本)](https://github.com/wuhuachuan712/blockchain/issues/8)
 6. [共识机制](https://github.com/wuhuachuan712/blockchain/issues/3)
